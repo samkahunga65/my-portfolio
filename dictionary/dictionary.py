@@ -38,11 +38,11 @@ while vv == 1:
             continue
         elif y.lower() == 'n':
             print('y u do dat?')
-            vv = 'vag'
+            vv = '2'
             break
         else:
             print('and wee are outta here')
-            vv = 'vag'
+            vv = '2'
             break
     else:
         print('no such word please try again'.upper())
