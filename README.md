@@ -1,2 +1,2 @@
 # DICTIONARY
-run the script and use a python dictionary!
+save the files in dictionary as one file and run the script!
