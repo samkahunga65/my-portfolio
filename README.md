@@ -1,2 +1,2 @@
-# my-portfolio
-these are my projects
+# DICTIONARY
+run the script and use a python dictionary!

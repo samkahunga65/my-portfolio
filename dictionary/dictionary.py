@@ -4,10 +4,12 @@ import difflib
 from difflib import get_close_matches
 data = json.load(open('data.json'))
 
+#THIS METHOD CHECKS THE NEXT CLOSEST WORD IF THE ENTERED ONE IS WRONG
 def close_matches(val):
     doppelganger = get_close_matches(val, data.keys(), n=2)
     return doppelganger[0]
 
+#THIS METHOD CHECKS FOR THE WORD IN THE JSON FILE
 def check_word(val):
     # if data[val] == True:
     #        return data[val]
