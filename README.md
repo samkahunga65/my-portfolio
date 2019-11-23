@@ -1,2 +1,2 @@
 # my-portfolio
-this repo shows my projects
+these are my projects
